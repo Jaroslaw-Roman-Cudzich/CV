@@ -1,4 +1,4 @@
-## Jaroslaw Roman Cudzich
+## Jaroslaw R. Cudzich
 
 #### Full Stack Junior Developer
 
