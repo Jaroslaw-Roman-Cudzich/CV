@@ -4,7 +4,7 @@
 
 **Recent graduate of one of the most prestigious and selective computer programming bootcamps worldwide, Makers Academy, accompanied with over 12 years of experience in the field of audio visual technology which has incorporated in it to a great extent the field of information technology.**  
 
-[Profile](#profile) -- [Skills](#skills) -- [Projects](#projects) -- [Education](#education) -- [Experience](#experience) -- [Interests](#interests)
+[Profile](#profile) -- [Skills](#skills) -- [Projects](#projects) -- [Education](#education) -- [Professional Experience](#experience) -- [Interests](#interests)
 ____
 ### <a name="profile">Profile</a>
 Recent Makers Academy graduate eager to start a challenging journey as a full stack junior developer.  In my role prior to joining Makers, I was an Audio Visual and Multimedia Technician for more than 6 years at Allen & Overy, a distinguished member of UK's Magic Circle of leading law firms.  This challenging role required an extensive amount of fault diagnostics and problem resolution attributes which are vital for the success of the Audio Visual and Multimedia, as well as the Information Technology departments as a whole.  This role was a natural stepping-stone for me to further challenge myself through the instinctive progression into computer programming.  As an active member of the Allen & Overy Code Club I met with other Code Club members on a weekly basis to enhance our programming skills through virtual Zoom coding sessions.
@@ -37,8 +37,10 @@ Overture project for Barco in a corporate environment.
 * Media broadcasts and digital signage through MediaStar Systems.
 * Consistent collabora:on with Informa:on Technology, Dimension Data, Audio Visual Engineers, and Programmers.
 * Microsoft Outlook, booking so)ware program Condeco, ININ.
+
 **Senior Audio Visual Technician / Video Conference Bridge Operator - Dreamtek Ltd.**
 **Commerzbank AG London, United Kingdom 3 Month Contract, January 2015 – April 2015**
+
 * Senior Audio Visual Technician and Video Conference Bridge Operator for corporate mee:ngs and other high profile events
 involving sophis:cated integrated video and audio conference network systems.
 * Auditoriums - Live and recorded high profile presenta:on events transmiYed worldwide using audio visual conferencing systems.
@@ -59,10 +61,12 @@ the art installa:on and maintenance of the new automated and integrated drop dow
 and truss - CAD plans, descrip:on of the type and weight of the equipment being used, scissor li) licenses.
 * Pro-actively contacted clientele to interpret technical solu:ons, build rapport, and arrange mee:ngs to fulfil every audio visual
 need - Apple, Bank of America, New Balance, Landmark, IOIC, DataStax, Scania.
+
 **Audio Visual Technician - PSAV Presenta:on Services - Marriott Interna:onal, Inc.**
 **The Savoy and Simpson’s In-The-Strand**
 **Claridge’s, Berkeley Hotel London, United Kingdom**
 **The Ritz-Carlton Phoenix, Arizona, United States September 2012 – April 2014**
+
 * The Savoy Event Technology department was the highest PSAV London opera:ons revenue genera:ng department in 2013.
 * The Phoenix Ritz-Carlton Audio Visual profit margin was consistently amongst the highest of all the Ritz-Carlton venues worldwide.
 * Recipient of numerous awards and recogni:ons.
