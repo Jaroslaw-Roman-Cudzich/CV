@@ -37,8 +37,8 @@ Overture project for Barco in a corporate environment.
 * Media broadcasts and digital signage through MediaStar Systems.
 * Consistent collabora:on with Informa:on Technology, Dimension Data, Audio Visual Engineers, and Programmers.
 * Microsoft Outlook, booking so)ware program Condeco, ININ.
-Senior Audio Visual Technician / Video Conference Bridge Operator - Dreamtek Ltd.
-Commerzbank AG London, United Kingdom 3 Month Contract, January 2015 – April 2015
+**Senior Audio Visual Technician / Video Conference Bridge Operator - Dreamtek Ltd.**
+**Commerzbank AG London, United Kingdom 3 Month Contract, January 2015 – April 2015**
 * Senior Audio Visual Technician and Video Conference Bridge Operator for corporate mee:ngs and other high profile events
 involving sophis:cated integrated video and audio conference network systems.
 * Auditoriums - Live and recorded high profile presenta:on events transmiYed worldwide using audio visual conferencing systems.
@@ -46,8 +46,8 @@ involving sophis:cated integrated video and audio conference network systems.
 * Microsoft Outlook, booking software program Manhattan.
 
 
-In-House Technical Events Manager - PSAV Presenta:on Services (formerly AVC Live Ltd.)
-Park Plaza Riverbank Hotel London, United Kingdom April 2014 – October 2014
+**In-House Technical Events Manager - PSAV Presenta:on Services (formerly AVC Live Ltd.)**
+**Park Plaza Riverbank Hotel London, United Kingdom April 2014 – October 2014**
 * Recipient of numerous recogni:ons and awards. Daily flagship Park Plaza management, opera:onal, and financial mee:ngs.
 * Consistently amongst the highest net revenue producing venue for AVC Ltd. on a monthly basis.
 * Solely in charge of all the audio visual opera:onal, technical, management, and sales aspects. Lead role as both a manager and
@@ -59,16 +59,16 @@ the art installa:on and maintenance of the new automated and integrated drop dow
 and truss - CAD plans, descrip:on of the type and weight of the equipment being used, scissor li) licenses.
 * Pro-actively contacted clientele to interpret technical solu:ons, build rapport, and arrange mee:ngs to fulfil every audio visual
 need - Apple, Bank of America, New Balance, Landmark, IOIC, DataStax, Scania.
-Audio Visual Technician - PSAV Presenta:on Services - Marrio\ Interna:onal, Inc.
-The Savoy and Simpson’s In-The-Strand
-Claridge’s, Berkeley Hotel London, United Kingdom
-The Ritz-Carlton Phoenix, Arizona, United States September 2012 – April 2014
-• The Savoy Event Technology department was the highest PSAV London opera:ons revenue genera:ng department in 2013.
-• The Phoenix Ritz-Carlton Audio Visual profit margin was consistently amongst the highest of all the Ritz-Carlton venues worldwide.
-• Recipient of numerous awards and recogni:ons.
-• Built rapport with clients in a professional manner to ins:l a genuine level of comfort and trust to our guests in :mes of stress.
-• Maintained communica:on with PSAV’s warehouse, outside vendors, and the hotels’ PSAV staff to ensure the proper delivery and
+**Audio Visual Technician - PSAV Presenta:on Services - Marriott Interna:onal, Inc.**
+**The Savoy and Simpson’s In-The-Strand**
+**Claridge’s, Berkeley Hotel London, United Kingdom**
+**The Ritz-Carlton Phoenix, Arizona, United States September 2012 – April 2014**
+* The Savoy Event Technology department was the highest PSAV London opera:ons revenue genera:ng department in 2013.
+* The Phoenix Ritz-Carlton Audio Visual profit margin was consistently amongst the highest of all the Ritz-Carlton venues worldwide.
+* Recipient of numerous awards and recogni:ons.
+* Built rapport with clients in a professional manner to ins:l a genuine level of comfort and trust to our guests in :mes of stress.
+* Maintained communica:on with PSAV’s warehouse, outside vendors, and the hotels’ PSAV staff to ensure the proper delivery and
 collec:on of equipment for upcoming events. Updated the department’s daily flow sheet, inpuYed new orders, and obtained
 client signatures for invoices through the use of so)ware programs including Triumph, Global Suite, Microso) Outlook, Excel.
-• Streamlined daily job assignments through an:cipa:on of the clients’ needs.
-• Led in the rigging, teching, troubleshoo:ng, and de-rigging of events while mee:ng PSAV’s safety standards.
+* Streamlined daily job assignments through an:cipa:on of the clients’ needs.
+* Led in the rigging, teching, troubleshoo:ng, and de-rigging of events while mee:ng PSAV’s safety standards.
