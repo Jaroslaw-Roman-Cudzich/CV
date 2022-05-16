@@ -81,11 +81,11 @@ client signatures for invoices through the use of so)ware programs including Tri
 
 **Makers Academy                                              London, United Kingdom                                                                      April 2022**  
 * Highly selective 16-week software engineering bootcamp where I developed skills for front-end and back-end software and web development through the use of a range of technologies and coding principles including the following amongst others:
-* MongoDB, Express, React, Node, Ruby, Capybara, PostgreSQL, Sinatra, HTML, CSS, Heroku.
-* Clean and very well tested code.  Proactively follow the Test Driven Development principles through the use of Jest, Cypress, Postman, React-testing Library, SuperTest.
-* Ability and willingness to learn a new programming language and new tools.  Comfortable with the concepts of Object-oriented and functional languages while following the principles of SOLID.
-* Self-motivator and self-learner as well as eager to learn from and work with others. - Pair programming.
-* Agile software development.  Confident in being a leader and working on a development project as a member of a team through the use of tools including GitHub, Trello boards, retrospectives, and daily stand-ups.
+    * MongoDB, Express, React, Node, Ruby, Capybara, PostgreSQL, Sinatra, HTML, CSS, Heroku.
+    * Clean and very well tested code.  Proactively follow the Test Driven Development principles through the use of Jest, Cypress, Postman, React-testing Library, SuperTest.
+    * Ability and willingness to learn a new programming language and new tools.  Comfortable with the concepts of Object-oriented and functional languages while following the principles of SOLID.
+    * Self-motivator and self-learner as well as eager to learn from and work with others. - Pair programming.
+    * Agile software development.  Confident in being a leader and working on a development project as a member of a team through the use of tools including GitHub, Trello boards, retrospectives, and daily stand-ups.
 
 **Scottsdale Community College                          Scottsdale, Arizona, United States                                                       December 2011**
 * Associate in Applied Science Degree in Audio Production Technologies 
