@@ -20,3 +20,7 @@ I am thankful for the many challenges I have come across in my years of experien
 The COVID-19 pandemic created new challenges and opportunties for the entire Audio Visual and Multimedia department in its adaptation to the completely new and uncharted territory presented.  We went from working with state of the art Audio Visual and Information Technology equipment onsite to ensuring no disruption to the business growth of Allen & Overy during the pandemic by taking all of the business meetings, presentations, workshops, sessions, etc. to virtual and hybrid levels.  The department enabled the enterprise's business to continue by bringing the business home through my team doing fault disagnosis, organising, and leading the technical aspects of the virtual sessions.  This involved working with new technologies and taking on a completely new role.
 
 ##### A leader and team player
+At Allen & Overy, I was the most Senior Audio Visual and Multimedia Technician within the department where I led other Technicians in day to day duties and projects at hand.  
+
+
+
