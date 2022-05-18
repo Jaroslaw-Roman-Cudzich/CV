@@ -20,7 +20,9 @@ I am thankful for the many challenges I have come across in my years of experien
 The COVID-19 pandemic created new challenges and opportunties for the entire Audio Visual and Multimedia department in its adaptation to the completely new and uncharted territory presented.  We went from working with state of the art Audio Visual and Information Technology equipment onsite to ensuring no disruption to the business growth of Allen & Overy during the pandemic by taking all of the business meetings, presentations, workshops, sessions, etc. to virtual and hybrid levels.  The department enabled the enterprise's business to continue by bringing the business home through my team doing fault disagnosis, organising, and leading the technical aspects of the virtual sessions.  This involved working with new technologies and taking on a completely new role.
 
 ##### A leader and team player
-At Allen & Overy, I was the most Senior Audio Visual and Multimedia Technician within the department where I led other Technicians in day to day duties and projects at hand.  
+As an In-House Technical Events Manager at the Park PLaza Riverbank Hotel, I was solely in charge of all the audio visual operational, technical, management, and sales aspects of the department. I embraced my lead role as both a manager
+and technician to ensure a successful completion of every event in a structured, safe, and timely manner.  As a team player I collaborated with my colleagues from the Information Technology and Engineering departments, along with integrated system installation companies to ensure a safe and reliable
+state of the art installation and maintenance of the audio visual equipment.  At Allen & Overy, I was the most Senior Audio Visual and Multimedia Technician within the department where I led other Technicians in day to day duties and projects at hand.  I worked as part of a team through consistent collaboration with Information Technology, Dimension Data, Audio Visual Engineers, and Programmers.   
 
 ### <a name="experience">Professional Experience</a>
 
