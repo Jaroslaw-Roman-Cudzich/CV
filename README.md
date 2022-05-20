@@ -34,6 +34,12 @@ I am thankful for the many challenges I have come across in my years of experien
 ##### Highly adaptable mind-set
 The COVID-19 pandemic created new challenges and opportunties for the entire Audio Visual and Multimedia department in its adaptation to the completely new and uncharted territory presented.  We went from working with state of the art Audio Visual and Information Technology equipment onsite to ensuring no disruption to the business growth of Allen & Overy during the pandemic by taking all of the business meetings, presentations, workshops, sessions, etc. to virtual and hybrid levels.  The department enabled the enterprise's business to continue by bringing the business home through my team doing fault disagnosis, organising, and leading the technical aspects of the virtual sessions.  This involved working with new technologies and taking on a completely new role.
 
+##### Ability and willingness to learn new programming languages and tools
+One of the key compenents of being a successful student at Makers Academy is the adaptive and self-learning mind-set necessary to learn new programming tools and languages.  MongoDB, Express, React, Node, Ruby, Capybara, PostgreSQL, Sinatra, HTML, CSS, and Heroku are just some of the technology stack languages and tools I have proactively created programs with at Makers Academy.  
+
+##### Test Driven Development - Clean and very well tested code
+I proactively follow the principles of Test Driven Development to ensure high quality code.  I write clean code to make the program easier to maintain, understand, and de-bug.  These are some of the key components of the Makers Academy curriculum.  
+
 ##### A leader and team player
 As an In-House Technical Events Manager at the Park PLaza Riverbank Hotel, I was solely in charge of all the audio visual operational, technical, management, and sales aspects of the department. I embraced my lead role as both a manager
 and technician to ensure a successful completion of every event in a structured, safe, and timely manner.  As a team player I collaborated with my colleagues from the Information Technology and Engineering departments, along with integrated system installation companies to ensure a safe and reliable
