@@ -18,11 +18,11 @@ Please see below the software engineering projects I would like to highlight dur
 
 | Project                                                                                                                         | Summary                                                                                          | Technologies                                          |
 |---------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|-------------------------------------------------------|
-| [Sonder](https://github.com/Jaroslaw-Roman-Cudzich/sonder-tech-for-good)                                                        | A MERN stack based technology for good web application enabling refugee mothers to obtain the assistance that they and their children need.  | MongoDB, Express.js, React, Node.js                           |
-| [Acebook](https://github.com/Jaroslaw-Roman-Cudzich/acebook-makerverse)                                                                        | A web application based off of the features of Facebook.                   |     MongoDB, Express.js, Node.js, Jest, Cypress, Crypt, Bootstrap, ESLint, Handlebars                     |
+| [Sonder](https://github.com/Jaroslaw-Roman-Cudzich/sonder-tech-for-good)                                                        | A MERN stack based technology for good web application enabling refugee mothers to obtain the assistance that they and their children need.  | MongoDB, Express.js, React, Node.js, Jest, Cypress                           |
+| [Acebook](https://github.com/Jaroslaw-Roman-Cudzich/acebook-makerverse)                                                                        | A web application based off of the features of Facebook.                   |     MongoDB, Express.js, Node.js, Crypt, Bootstrap, ESLint, Handlebars, Jest, Cypress                    |
 | [Makersbnb](https://github.com/Jaroslaw-Roman-Cudzich/Makersbnb)                                                                      | A web application based off of the features of Airbnb.          | Ruby, PostgreSQL, Sinatra, HTML: includes CSS and JavaScript, RSpec, Rack              |
 
-Please feel free to visit my [GitHub](github.com/Jaroslaw-Roman-Cudzich) account for additional programs created and challenges undertaken.
+Please feel free to visit my [GitHub](https://github.com/Jaroslaw-Roman-Cudzich) account for additional programs created and challenges undertaken.
 
 
 
