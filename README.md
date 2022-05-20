@@ -16,9 +16,9 @@ My continuous thirst for knowledge and problem-solving mind-set reinforces my pr
 
 Please see below the software engineering projects I would like to highlight during my Makers Academy course.  The projects are listed in reverse chronological order in order to demonstrate the change in complexity of the programming accomplished, with the most recent and complex project being the first one in the list.
 
-| Project                                                                                                                         | Summary                                                                                          | Technologies                                          |
+| Project                                                                                                                         | Description                                                                                          | Technology Stack                                          |
 |---------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|-------------------------------------------------------|
-| [Sonder](https://github.com/Jaroslaw-Roman-Cudzich/sonder-tech-for-good)                                                        | A MERN stack based technology for good web application enabling refugee mothers to obtain the assistance that they and their children need.  | MongoDB, Express.js, React, Node.js, Jest, Cypress                           |
+| [Sonder](https://github.com/Jaroslaw-Roman-Cudzich/sonder-tech-for-good)                                                        | Technology for good web application enabling refugee mothers to obtain the assistance that they and their children need.  | MongoDB, Express.js, React, Node.js, Jest, Cypress                           |
 | [Acebook](https://github.com/Jaroslaw-Roman-Cudzich/acebook-makerverse)                                                                        | A web application based off of the features of Facebook.                   |     MongoDB, Express.js, Node.js, Crypt, Bootstrap, ESLint, Handlebars, Jest, Cypress                    |
 | [Makersbnb](https://github.com/Jaroslaw-Roman-Cudzich/Makersbnb)                                                                      | A web application based off of the features of Airbnb.          | Ruby, PostgreSQL, Sinatra, HTML: includes CSS and JavaScript, RSpec, Rack              |
 
@@ -38,6 +38,9 @@ The COVID-19 pandemic created new challenges and opportunties for the entire Aud
 As an In-House Technical Events Manager at the Park PLaza Riverbank Hotel, I was solely in charge of all the audio visual operational, technical, management, and sales aspects of the department. I embraced my lead role as both a manager
 and technician to ensure a successful completion of every event in a structured, safe, and timely manner.  As a team player I collaborated with my colleagues from the Information Technology and Engineering departments, along with integrated system installation companies to ensure a safe and reliable
 state of the art installation and maintenance of the audio visual equipment.  At Allen & Overy, I was the most Senior Audio Visual and Multimedia Technician within the department where I led other Technicians in day to day duties and projects at hand.  I worked as part of a team through consistent collaboration with Information Technology, Dimension Data, Audio Visual Engineers, and Programmers.   
+
+##### Attention to detail
+Through my past experience in working with very prestigious clientele, I have developed a keen eye for fine details.  I am able to understand how the many pieces of the program work together, as well as locate that one tiny bug which prevents the code from running as intended.   
 
 ### <a name="experience">Professional Experience</a>
 
