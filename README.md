@@ -4,7 +4,7 @@
 
 **Recent graduate of one of the most prestigious and selective computer programming bootcamps worldwide, Makers Academy, accompanied with over 12 years of experience in the field of audio visual technology which has incorporated in it to a great extent the field of information technology.**  
 
-[Profile](#profile) -- [Engineering Projects](#projects) -- [Skills](#skills) -- [Education](#education) -- [Professional Experience](#experience) -- [Interests](#interests)
+[Profile](#profile) -- [Engineering Projects](#projects) -- [Skills](#skills) --  [Professional Experience](#experience) -- [Education](#education) -- [Interests](#interests)
 ____
 ### <a name="profile">Profile</a>
 Recent Makers Academy graduate eager to start a challenging journey as a full stack junior developer.  In my role prior to joining Makers, I was an Audio Visual and Multimedia Technician for more than 6 years at Allen & Overy, a distinguished member of UK's Magic Circle of leading law firms.  This challenging role required an extensive amount of fault diagnostics and problem resolution attributes which are vital for the success of the Audio Visual and Multimedia, as well as the Information Technology departments as a whole.  This role was a natural stepping-stone for me to further challenge myself through the instinctive progression into computer programming.  As an active member of the Allen & Overy Code Club I met with other Code Club members on a weekly basis to enhance our programming skills through virtual Zoom coding sessions.
@@ -74,7 +74,6 @@ involving sophis:cated integrated video and audio conference network systems.
 * Auditoriums - Live and recorded high profile presentation events transmitted worldwide using audio visual conferencing systems.
 * Operated technical equipment for live news media broadcasts.
 * Microsoft Outlook and booking software program Manhattan.
-
 
 **In-House Technical Events Manager - PSAV Presenta:on Services (formerly AVC Live Ltd.)**
 <br>
