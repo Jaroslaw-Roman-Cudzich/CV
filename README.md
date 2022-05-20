@@ -4,12 +4,27 @@
 
 **Recent graduate of one of the most prestigious and selective computer programming bootcamps worldwide, Makers Academy, accompanied with over 12 years of experience in the field of audio visual technology which has incorporated in it to a great extent the field of information technology.**  
 
-[Profile](#profile) -- [Skills](#skills) -- [Projects](#projects) -- [Education](#education) -- [Professional Experience](#experience) -- [Interests](#interests)
+[Profile](#profile) -- [Engineering Projects](#projects) -- [Skills](#skills) -- [Education](#education) -- [Professional Experience](#experience) -- [Interests](#interests)
 ____
 ### <a name="profile">Profile</a>
 Recent Makers Academy graduate eager to start a challenging journey as a full stack junior developer.  In my role prior to joining Makers, I was an Audio Visual and Multimedia Technician for more than 6 years at Allen & Overy, a distinguished member of UK's Magic Circle of leading law firms.  This challenging role required an extensive amount of fault diagnostics and problem resolution attributes which are vital for the success of the Audio Visual and Multimedia, as well as the Information Technology departments as a whole.  This role was a natural stepping-stone for me to further challenge myself through the instinctive progression into computer programming.  As an active member of the Allen & Overy Code Club I met with other Code Club members on a weekly basis to enhance our programming skills through virtual Zoom coding sessions.
 
 My continuous thirst for knowledge and problem-solving mind-set reinforces my preparedness and keenness to take on the challenges ahead involved with starting my journey as a developer.  Whether the task at hand involves working as a team or on a project solo, I have the collaborative mind-set, natural drive, and self-discipline necessary to make a significant contribution to the enterprise and its clientele as a whole.  I am intrigued with the possibilities of understanding how programs work from within, through the DNA of the applications I have worked with in my career thus far, through coding.
+
+### <a name="projects">Engineering Projects</a>
+
+
+Please see below the software engineering projects I would like to highlight during my Makers Academy course.  The projects are listed in reverse chronological order in order to demonstrate the change in complexity of the programming accomplished, with the most recent and complex project being the first one in the list.
+
+| Project                                                                                                                         | Summary                                                                                          | Technologies                                          |
+|---------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|-------------------------------------------------------|
+| [Sonder](https://github.com/Jaroslaw-Roman-Cudzich/sonder-tech-for-good)                                                        | A MERN stack based technology for good web application enabling refugee mothers to obtain the assistance that they and their children need.  | MongoDB, Express.js, React, Node.js                           |
+| [Acebook](https://github.com/Jaroslaw-Roman-Cudzich/acebook-makerverse)                                                                        | A web application based off of the features of Facebook.                   |     MongoDB, Express.js, Node.js, Jest, Cypress, Crypt, Bootstrap, ESLint, Handlebars                     |
+| [Makersbnb](https://github.com/Jaroslaw-Roman-Cudzich/Makersbnb)                                                                      | A web application based off of the features of Airbnb.          | Ruby, PostgreSQL, Sinatra, HTML: includes CSS and JavaScript, RSpec, Rack              |
+
+Please feel free to visit my [GitHub](github.com/Jaroslaw-Roman-Cudzich) account for additional programs created and challenges undertaken.
+
+
 
 ### <a name="skills">Skills</a>
 
