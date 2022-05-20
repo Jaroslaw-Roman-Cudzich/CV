@@ -96,14 +96,14 @@ client signatures for invoices through the use of software programs including Tr
     * Agile software development.  Confident in being a leader and working on a development project as a member of a team through the use of tools including GitHub, Trello boards, retrospectives, and daily stand-ups.
 
 **Scottsdale Community College - Scottsdale, Arizona, United States (December 2011)**
-* Associate in Applied Science Degree in Audio Production Technologies 
-* Associate in Applied Science Degree in Music Business
+* **Associate in Applied Science Degree in Audio Production Technologies** 
+* **Associate in Applied Science Degree in Music Business**
 * President’s Honor List – Straight A Student
 
 **Arizona State University**
 <br>
 **School of Global Management and Leadership - Phoenix, Arizona, United States (December 2005)**
-* Bachelor of Science Degree in Global Business, concentration in Financial Management  
-* Minor in French
-* Minor in Spanish
+* **Bachelor of Science Degree in Global Business, concentration in Financial Management**  
+* **Minor in French**
+* **Minor in Spanish**
 * Member of the Graham-Dodd Society - International business and finance major students discussing real world market topics.
