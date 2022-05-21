@@ -7,9 +7,9 @@
 [Profile](#profile) - [Engineering Projects](#projects) - [Skills](#skills) - [Professional Experience](#experience) - [Education](#education)
 ____
 ### <a name="profile">Profile</a>
-Recent Makers Academy graduate eager to start a challenging journey as a full stack junior developer.  In my role prior to joining Makers, I was an Audio Visual and Multimedia Technician for more than 6 years at Allen & Overy, a distinguished member of UK's Magic Circle of leading law firms.  This challenging role required an extensive amount of fault diagnostics and problem resolution attributes which are vital for the success of the Audio Visual and Multimedia, as well as the Information Technology departments as a whole.  This role was a natural stepping-stone for me to further challenge myself through the instinctive progression into computer programming.  As an active member of the Allen & Overy Code Club I met with other Code Club members on a weekly basis to enhance our programming skills through virtual Zoom coding sessions.
+Recent Makers Academy graduate eager to start a challenging journey as a full stack, front-end, or back-end Junior Software Engineer.  In my role prior to joining Makers, I was an Audio Visual and Multimedia Technician for more than 6 years at Allen & Overy, a distinguished member of UK's Magic Circle of leading law firms.  This challenging role required an extensive amount of fault diagnostics and problem resolution attributes which are vital for the success of the Audio Visual and Multimedia, as well as the Information Technology departments as a whole.  This role was a natural stepping-stone for me to further challenge myself through the instinctive progression into computer programming.  As an active member of the Allen & Overy Code Club I met with other Code Club members on a weekly basis to enhance our programming skills through virtual Zoom coding sessions.
 
-My continuous thirst for knowledge and problem-solving mind-set reinforces my preparedness and keenness to take on the challenges ahead involved with starting my journey as a developer.  Whether the task at hand involves working as a team or on a project solo, I have the collaborative mind-set, natural drive, and self-discipline necessary to make a significant contribution to the enterprise and its clientele as a whole.  I am intrigued with the possibilities of understanding how programs work from within, through the DNA of the applications I have worked with in my career thus far, through coding.
+My continuous thirst for knowledge and problem-solving mind-set reinforces my preparedness and keenness to take on the challenges ahead involved with starting my journey as a Software Engineer.  Whether the task at hand involves working as a team or on a project solo, I have the collaborative mind-set, natural drive, and self-discipline necessary to make a significant contribution to the enterprise and its clientele as a whole.  I am intrigued with the possibilities of understanding how programs work from within, through the DNA of the applications I have worked with in my career thus far, through coding.
 
 ### <a name="projects">Engineering Projects</a>
 
@@ -43,7 +43,7 @@ I proactively follow the principles of Test Driven Development to ensure high qu
 ##### A leader and team player
 As an In-House Technical Events Manager at the Park PLaza Riverbank Hotel, I was solely in charge of all the audio visual operational, technical, management, and sales aspects of the department. I embraced my lead role as both a manager
 and technician to ensure a successful completion of every event in a structured, safe, and timely manner.  As a team player I collaborated with my colleagues from the Information Technology and Engineering departments, along with integrated system installation companies to ensure a safe and reliable
-state of the art installation and maintenance of the audio visual equipment.  At Allen & Overy, I was the most Senior Audio Visual and Multimedia Technician within the department where I led other Technicians in day to day duties and projects at hand.  I worked as part of a team through consistent collaboration with Information Technology, Dimension Data, Audio Visual Engineers, and Programmers.   
+state of the art installation and maintenance of the audio visual equipment.  At Allen & Overy, I was the most senior Audio Visual and Multimedia Technician within the department where I led other Technicians in day to day duties and projects at hand.  I worked as part of a team through consistent collaboration with Information Technology, Dimension Data, Audio Visual Engineers, and Programmers.   
 
 ##### Excellent communicator
 
@@ -62,39 +62,39 @@ Through my past experience in working with very prestigious clientele, I have de
 Overture project for Barco in a corporate environment.
 * Proficient in WebEx Mee:ngs, Events, and Trainings, Skype for Business, Skype, and Arkadin. Competent in Microsoft Teams and Zoom.
 * Proficient knowledge and use of Cisco conferencing systems, Tandberg (now Cisco), Polycom Sound Structures, Extron recorders.
-* Most Senior Audio Visual and Mul:media Technician leading other Technicians in day to day du:es and projects at hand.
-* Use of video conferencing bridge so)ware including VQ Communica:ons and TMS .
-* Use of presenta:on so)wares including Slido, Power Point, and Adobe - both Windows and Macintosh.
+* Most senior Audio Visual and Multimedia Technician leading other Technicians in day to day duties and projects at hand.
+* Use of video conferencing bridge software including VQ Communications and TMS.
+* Use of presentation softwares including Slido, Power Point, and Adobe - both Windows and Macintosh.
 * Media broadcasts and digital signage through MediaStar Systems.
-* Consistent collabora:on with Informa:on Technology, Dimension Data, Audio Visual Engineers, and Programmers.
-* Microsoft Outlook, booking so)ware program Condeco, and ININ.
+* Consistent collaboration with Information Technology, Dimension Data, Audio Visual Engineers, and Programmers.
+* Microsoft Outlook, booking software program Condeco, and ININ.
 
 **Senior Audio Visual Technician / Video Conference Bridge Operator - Dreamtek Ltd.**
 <br>
 **Commerzbank AG - London, United Kingdom (3 Month Contract, January 2015 – April 2015)**
 
 * Senior Audio Visual Technician and Video Conference Bridge Operator for corporate meetings and other high profile events
-involving sophis:cated integrated video and audio conference network systems.
+involving sophisticated integrated video and audio conference network systems.
 * Auditoriums - Live and recorded high profile presentation events transmitted worldwide using audio visual conferencing systems.
 * Operated technical equipment for live news media broadcasts.
 * Microsoft Outlook and booking software program Manhattan.
 
-**In-House Technical Events Manager - PSAV Presenta:on Services (formerly AVC Live Ltd.)**
+**In-House Technical Events Manager - PSAV Presentation Services (formerly AVC Live Ltd.)**
 <br>
 **Park Plaza Riverbank Hotel - London, United Kingdom (April 2014 – October 2014)**
-* Recipient of numerous recogni:ons and awards. Daily flagship Park Plaza management, operational, and financial meetings.
+* Recipient of numerous recognitions and awards. Daily flagship Park Plaza management, operational, and financial meetings.
 * Consistently amongst the highest net revenue producing venue for AVC Ltd. on a monthly basis.
 * Solely in charge of all the audio visual operational, technical, management, and sales aspects. Lead role as both a manager and
-technician to ensure a successful comple:on of every event in a structured, safe, and :mely manner.
-* Consistent communica:on with IT, engineering, and integrated system installa:on companies to ensure a safe and reliable state of
-the art installa:on and maintenance of the new automated and integrated drop down projection systems.
+technician to ensure a successful completion of every event in a structured, safe, and timely manner.
+* Consistent communication with IT, engineering, and integrated system installation companies to ensure a safe and reliable state of
+the art installation and maintenance of the newly automated and integrated drop down projection systems.
 * Created quotes, floor plans, updated turnover files, hired technicians, sub-hired equipment, created purchase orders, and produced invoices.
-* Aided with the collec:on of Rigging Health and Safety Check documenta:on to permit produc:on companies to hang equipment
+* Aided with the collection of Rigging Health and Safety Check documentation to permit production companies to hang equipment
 and truss - CAD plans, description of the type and weight of the equipment being used, and scissor lift licenses.
-* Pro-actively contacted clientele to interpret technical solu:ons, build rapport, and arrange mee:ngs to fulfil every audio visual
+* Pro-actively contacted clientele to interpret technical solutions, build rapport, and arrange meetings to fulfil every audio visual
 need - Apple, Bank of America, New Balance, Landmark, IOIC, DataStax, and Scania, amongst others.
 
-**Audio Visual Technician - PSAV Presenta:on Services - Marriott International, Inc.**
+**Audio Visual Technician - PSAV Presentation Services - Marriott International, Inc.**
 <br>
 **The Savoy and Simpson’s In-The-Strand**
 <br>
@@ -104,10 +104,10 @@ need - Apple, Bank of America, New Balance, Landmark, IOIC, DataStax, and Scania
 
 * The Savoy Event Technology department was the highest PSAV London operations revenue generating department in 2013.
 * The Phoenix Ritz-Carlton Audio Visual profit margin was consistently amongst the highest of all the Ritz-Carlton venues worldwide.
-* Recipient of numerous awards and recogni:ons.
+* Recipient of numerous awards and recognitions.
 * Built rapport with clients in a professional manner to instil a genuine level of comfort and trust to our guests in times of stress.
-* Maintained communica:on with PSAV’s warehouse, outside vendors, and the hotels’ PSAV staff to ensure the proper delivery and
-collec:on of equipment for upcoming events. Updated the department’s daily flow sheet, inpuYed new orders, and obtained
+* Maintained communication with PSAV’s warehouse, outside vendors, and the hotels’ PSAV staff to ensure the proper delivery and
+collection of equipment for upcoming events. Updated the department’s daily flow sheet, inputted new orders, and obtained
 client signatures for invoices through the use of software programs including Triumph, Global Suite, Microsoft Outlook, and Excel.
 * Streamlined daily job assignments through anticipation of the clients’ needs.
 * Led in the rigging, teching, troubleshooting, and de-rigging of events while meeting PSAV’s safety standards.
